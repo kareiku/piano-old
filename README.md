@@ -1,6 +1,6 @@
 # For Spanish Qwerty, keyboard keys can play this notes
 
-<sub>C4</sub>
+**C4**<sub>A</sub>
 **A**
 __Db4__
 ### W

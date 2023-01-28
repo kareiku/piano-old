@@ -1,0 +1,75 @@
+html {
+    height: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(#500050, #ff7);
+}
+
+.piano {
+    display: flex;
+    position: relative;
+    margin-left: 6px;
+}
+
+.white-key {
+    width: 80px;
+    height: 240px;
+    background-color: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 0 0 6px 6px;
+    margin-left: -4px;
+    outline: none;
+    cursor: pointer;
+}
+
+.white-key.active {
+    background-color: #C0C0C0;
+}
+.black-key {
+    position: absolute;
+    width: 48px;
+    height: 160px;
+    background-image: linear-gradient(#000000, #303030);
+    border: 4px solid #000000;
+    border-radius: 0 0 2px 2px;
+    outline: none;
+    cursor: pointer;
+}
+
+.black-key.active {
+    background-image: linear-gradient(#000000, #101010);
+}
+
+.Db4 {
+    left: 49px;
+}
+
+.Eb4 {
+    left: 126px;
+}
+
+.Gb4 {
+    left: 277px;
+}
+
+.Ab4 {
+    left: 353px;
+}
+
+.Bb4 {
+    left: 429px;
+}
+
+.Db5 {
+    left: 581px;
+}
+
+.Eb5 {
+    left: 657px;
+}

@@ -1,4 +1,6 @@
-# For Spanish QWERTY, piano notes can be played by pressing this keyboard keys:
+# Guided with this image, notes can be played by pressing mentioned notes.
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/KB_United_States.svg/1920px-KB_United_States.svg.png)
 
 ## C4
 ### A
@@ -33,4 +35,4 @@
 ## Eb5
 ### P
 ## E5
-### Ñ
+### :

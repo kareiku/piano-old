@@ -1,8 +1,8 @@
 # For Spanish Qwerty, keyboard keys can play this notes
 
-**C4**<sub>A</sub>
-**A**
-__Db4__
+##### C4
+> A
+## Db4
 ### W
 ## D4
 ### S
@@ -16,10 +16,10 @@ __Db4__
 ### T
 ## G4
 ### G
-Ab4		Y
-A4		H
-Bb4		U
-B4		J
+### Ab4		Y
+### A4		H
+### Bb4		U
+### B4		J
 C5		K
 Db5		O
 D5		L

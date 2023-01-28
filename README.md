@@ -1,16 +1,21 @@
-### For Spanish Qwerty, keyboard keys can play such notes.
+# For Spanish Qwerty, keyboard keys can play such notes.
 
-## C4
-# A
-## Db4
-# W
+__C4__
+**A**
+__Db4__
+### W
 ## D4
-# S
-Eb4		E
-E4		D
-F4		F
-Gb4		T
-G4		G
+### S
+## Eb4
+### E
+## E4
+### D
+## F4
+### F
+## Gb4
+### T
+## G4
+### G
 Ab4		Y
 A4		H
 Bb4		U

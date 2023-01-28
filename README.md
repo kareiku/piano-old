@@ -1,4 +1,4 @@
-# For Spanish Qwerty, keyboard keys can play this notes
+# For Spanish Qwerty, piano notes can be played by pressing this keyboard keys:
 
 ## C4
 ### A

@@ -1,8 +1,11 @@
-Note		Keyboard Key (Spanish QWERTY)
+### For Spanish Qwerty, keyboard keys can play such notes.
 
-C4		A
-Db4		W
-D4		S
+## C4
+# A
+## Db4
+# W
+## D4
+# S
 Eb4		E
 E4		D
 F4		F

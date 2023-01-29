@@ -180,55 +180,55 @@ const playE5 = () => {
 }
 E5Key.addEventListener("click", playE5);
 
-window.addEventListener("keydown", ({keyCode}) => {
+window.addEventListener("keydown", ({ keyCode }) => {
     // Press A
     if (keyCode === 65) return playC4();
-    
+
     // Press W
     if (keyCode === 87) return playDb4();
-    
+
     // Press S
     if (keyCode === 83) return playD4();
-    
+
     // Press E
     if (keyCode === 69) return playEb4();
-    
+
     // Press D
     if (keyCode === 68) return playE4();
-    
+
     // Press F
     if (keyCode === 70) return playF4();
-    
+
     // Press T
     if (keyCode === 84) return playGb4();
-    
+
     // Press G
     if (keyCode === 71) return playG4();
-    
+
     // Press Y
     if (keyCode === 89) return playAb4();
-    
+
     // Press H
     if (keyCode === 72) return playA4();
-    
+
     // Press U
     if (keyCode === 85) return playBb4();
-    
+
     // Press J
     if (keyCode === 74) return playB4();
-    
+
     // Press K
     if (keyCode === 75) return playC5();
-    
+
     // Press O
     if (keyCode === 79) return playDb5();
-    
+
     // Press L
     if (keyCode === 76) return playD5();
-    
+
     // Press P
     if (keyCode === 80) return playEb5();
-    
+
     // Press Ñ
     if (keyCode === 192) return playE5();
 })

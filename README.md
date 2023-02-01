@@ -1,4 +1,4 @@
-##### [Piano](https://kareiku.github.io/piano)
+###### [Piano](https://kareiku.github.io/piano)
 
 # Guided with this image, notes can be played by pressing mentioned notes.
 

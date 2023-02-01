@@ -1,6 +1,6 @@
-> [Piano](https://kareiku.github.io/piano)
+###### [Piano](https://kareiku.github.io/piano)
 
-# Guided with this image, notes can be played by pressing mentioned notes.
+## Notes at the piano can be played by pressing such notes:
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/KB_United_States.svg/1920px-KB_United_States.svg.png)
 
